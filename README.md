@@ -1,0 +1,2 @@
+﻿# Openlayers 5 Drawing Controls
+This is a basic example of how to create a control panel on the map with drawing controls.  It includes the complete code to capture the new feature that is created and leaves a stub for you to process the feature as you need for your specific application.
